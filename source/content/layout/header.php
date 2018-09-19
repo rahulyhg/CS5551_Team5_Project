@@ -27,13 +27,13 @@
         <nav>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="grocery.html">Grocery List</a>
+                    <a href="grocery.php">Grocery List</a>
                 </div>
                 <div class="col-md-4">
-                    <a href="recipe.html">Recipes</a>
+                    <a href="recipe.php">Recipes</a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#">More Options</a>
+                    <a href="about.php">About</a>
                 </div>
             </div>
         </nav>

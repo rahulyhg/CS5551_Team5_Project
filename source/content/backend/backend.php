@@ -1,6 +1,7 @@
 <?
 
 $groceryPath = "content/database/groceries.json";
+$recipePath = "content/database/recipes.json";
 
 function DisplayError( $message )
 {
@@ -39,6 +40,12 @@ function SaveGroceryList( $newList )
 {
     global $groceryPath;
     WriteJson( $groceryPath, $newList );
+}
+
+function LoadRecipeList()
+{
+    global $recipePath;
+    return ReadJson( $recipePath );
 }
 
 function RemoveFood( $index )

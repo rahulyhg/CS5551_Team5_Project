@@ -3,3 +3,5 @@ img.logo { width: 32px; }
 footer { text-align: center; font-size: 10pt; }
 
 .main-view { padding-top: 20px; padding-bottom: 20px; }
+
+img.fit-container { width: 100%; }

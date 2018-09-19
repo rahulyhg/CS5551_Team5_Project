@@ -29,7 +29,3 @@ $groceryList = LoadGroceryList();
 <?
 include_once( "content/layout/footer.php" );
 ?>
-
-<pre>
-<? print_r( $_POST ); ?>
-</pre>
