@@ -26,13 +26,16 @@
         </header>
         <nav>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <a href="grocery.php">Grocery List</a>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <a href="recipe.php">Recipes</a>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <a href="control-panel.php">Control</a>
+                </div>
+                <div class="col-md-3">
                     <a href="about.php">About</a>
                 </div>
             </div>
